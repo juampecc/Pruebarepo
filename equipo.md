@@ -1,4 +1,4 @@
 # Equipo
 
 Responsable: LUIS
-Herramienta favorita: (vacío)
+Herramienta favorita: LUIS
