@@ -1,4 +1,7 @@
 # Equipo
 
-Responsable: LUIS
-Herramienta favorita: LUIS
+Responsable: (vacío)
+Herramienta favorita: (vacío)
+
+
+HOLA SOY ANA
